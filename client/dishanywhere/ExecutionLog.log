@@ -1,0 +1,121 @@
+18/06/2018 11:27:20 AutomationLog **************Test Script Started=> Launching Chrome Browser
+18/06/2018 11:27:25 AutomationLog INFO: Navigating to (http://www.dishanywhere.com) Site
+18/06/2018 11:27:40 AutomationLog INFO: Performing Click action on LOG_IN LINK
+18/06/2018 11:27:52 AutomationLog INFO: Entering USERNAME text in USERNAME_INPUTTEXT_FIELD Field
+18/06/2018 11:27:53 AutomationLog INFO: Entering PASSWORD text in PASSWORD INPUT TEXT FIELD and clicking on SIGNIN BUTTON
+18/06/2018 11:28:05 AutomationLog INFO: Performing Click action on SPORTS TAB
+18/06/2018 11:28:12 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:28:18 AutomationLog INFO: Performing Click action on Bravo NETWORK
+18/06/2018 11:28:23 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:28:26 AutomationLog INFO: Entering The Resident Title for Search in SEARCH field
+18/06/2018 11:28:31 AutomationLog INFO: Search Suggestions Displayed for The Resident, Checking them one by one to find exact Match
+18/06/2018 11:28:31 AutomationLog INFO: Exact Match Found for The Resident, Selecting it Now
+18/06/2018 11:28:35 AutomationLog INFO: PASS : Verifing MovieTitle Text on ON DEMAND page  : Actual is ->The Resident AND expected is ->The Resident
+18/06/2018 11:28:35 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for The Resident Title
+18/06/2018 11:28:45 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:28:50 AutomationLog INFO: Performing Click action on Bravo NETWORK
+18/06/2018 11:28:55 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:28:58 AutomationLog INFO: Entering The Profit Title for Search in SEARCH field
+18/06/2018 11:29:04 AutomationLog INFO: Search Suggestions Displayed for The Profit, Checking them one by one to find exact Match
+18/06/2018 11:29:04 AutomationLog INFO: Exact Match Found for The Profit, Selecting it Now
+18/06/2018 11:29:07 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->The Profit AND expected is ->The Profit
+18/06/2018 11:29:08 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 5 AND expected is ->Episode 5
+18/06/2018 11:29:08 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for The Profit Title
+18/06/2018 11:29:17 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:29:23 AutomationLog INFO: Performing Click action on USA NETWORK
+18/06/2018 11:29:28 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:29:31 AutomationLog INFO: Entering DAMNATION Title for Search in SEARCH field
+18/06/2018 11:29:36 AutomationLog INFO: Search Suggestions Displayed for DAMNATION, Checking them one by one to find exact Match
+18/06/2018 11:29:36 AutomationLog INFO: Exact Match Found for DAMNATION, Selecting it Now
+18/06/2018 11:29:40 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->Damnation AND expected is ->DAMNATION
+18/06/2018 11:29:40 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 2 AND expected is ->Episode 2
+18/06/2018 11:29:40 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for DAMNATION Title
+18/06/2018 11:29:49 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:29:55 AutomationLog INFO: Performing Click action on Bravo NETWORK
+18/06/2018 11:30:00 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:30:03 AutomationLog INFO: Entering The Resident Title for Search in SEARCH field
+18/06/2018 11:30:09 AutomationLog INFO: Search Suggestions Displayed for The Resident, Checking them one by one to find exact Match
+18/06/2018 11:30:09 AutomationLog INFO: Exact Match Found for The Resident, Selecting it Now
+18/06/2018 11:30:13 AutomationLog INFO: PASS : Verifing MovieTitle Text on ON DEMAND page  : Actual is ->The Resident AND expected is ->The Resident
+18/06/2018 11:30:13 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for The Resident Title
+18/06/2018 11:30:22 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:30:28 AutomationLog INFO: Performing Click action on Bravo NETWORK
+18/06/2018 11:30:33 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:30:36 AutomationLog INFO: Entering ThisISToShowWhenThereIsNoSuggestions Title for Search in SEARCH field
+18/06/2018 11:30:52 AutomationLog INFO: No Search Suggestions Displayed for ThisISToShowWhenThereIsNoSuggestions, Capturing the screeshot and Moving ahead with Next Title
+18/06/2018 11:30:55 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:31:00 AutomationLog INFO: Performing Click action on CNBC NETWORK
+18/06/2018 11:31:06 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:31:09 AutomationLog INFO: Entering OF ORANGE COUNTY Title for Search in SEARCH field
+18/06/2018 11:31:14 AutomationLog INFO: Search Suggestions Displayed for OF ORANGE COUNTY, Checking them one by one to find exact Match
+18/06/2018 11:31:14 AutomationLog INFO: Exact Match NOT Found for OF ORANGE COUNTY, Capturing the ScreenShot
+18/06/2018 11:31:18 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:31:23 AutomationLog INFO: Performing Click action on USA NETWORK
+18/06/2018 11:31:28 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:31:32 AutomationLog INFO: Entering DAMNATION Title for Search in SEARCH field
+18/06/2018 11:31:37 AutomationLog INFO: Search Suggestions Displayed for DAMNATION, Checking them one by one to find exact Match
+18/06/2018 11:31:37 AutomationLog INFO: Exact Match Found for DAMNATION, Selecting it Now
+18/06/2018 11:31:40 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->Damnation AND expected is ->DAMNATION
+18/06/2018 11:31:40 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 2 AND expected is ->Episode 2
+18/06/2018 11:31:40 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for DAMNATION Title
+18/06/2018 11:31:50 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:31:55 AutomationLog INFO: Performing Click action on Univision NETWORK
+18/06/2018 11:32:00 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:32:04 AutomationLog INFO: Entering WWE Raw Title for Search in SEARCH field
+18/06/2018 11:32:09 AutomationLog INFO: Search Suggestions Displayed for WWE Raw, Checking them one by one to find exact Match
+18/06/2018 11:32:09 AutomationLog INFO: Exact Match Found for WWE Raw, Selecting it Now
+18/06/2018 11:32:12 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->WWE Raw AND expected is ->WWE Raw
+18/06/2018 11:32:12 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 0 AND expected is ->Episode 0
+18/06/2018 11:32:12 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for WWE Raw Title
+18/06/2018 11:32:22 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:32:28 AutomationLog INFO: Performing Click action on CNBC NETWORK
+18/06/2018 11:32:33 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:32:36 AutomationLog INFO: Entering UNDERCOVER BOSS Title for Search in SEARCH field
+18/06/2018 11:32:42 AutomationLog INFO: Search Suggestions Displayed for UNDERCOVER BOSS, Checking them one by one to find exact Match
+18/06/2018 11:32:42 AutomationLog INFO: Exact Match Found for UNDERCOVER BOSS, Selecting it Now
+18/06/2018 11:32:45 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->Undercover Boss AND expected is ->UNDERCOVER BOSS
+18/06/2018 11:32:45 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:32:50 AutomationLog INFO: Performing Click action on CNBC NETWORK
+18/06/2018 11:32:56 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:32:59 AutomationLog INFO: Entering THE PROFIT Title for Search in SEARCH field
+18/06/2018 11:33:04 AutomationLog INFO: Search Suggestions Displayed for THE PROFIT, Checking them one by one to find exact Match
+18/06/2018 11:33:04 AutomationLog INFO: Exact Match Found for THE PROFIT, Selecting it Now
+18/06/2018 11:33:08 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->The Profit AND expected is ->THE PROFIT
+18/06/2018 11:33:08 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 3 AND expected is ->Episode 3
+18/06/2018 11:33:08 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for THE PROFIT Title
+18/06/2018 11:33:18 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:33:23 AutomationLog INFO: Performing Click action on NBC NETWORK
+18/06/2018 11:33:28 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:33:31 AutomationLog INFO: Entering THE VOICE Title for Search in SEARCH field
+18/06/2018 11:33:37 AutomationLog INFO: Search Suggestions Displayed for THE VOICE, Checking them one by one to find exact Match
+18/06/2018 11:33:37 AutomationLog INFO: Exact Match Found for THE VOICE, Selecting it Now
+18/06/2018 11:33:40 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->The Voice AND expected is ->THE VOICE
+18/06/2018 11:33:40 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 22 AND expected is ->Episode 22
+18/06/2018 11:33:40 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for THE VOICE Title
+18/06/2018 11:33:54 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:34:00 AutomationLog INFO: Performing Click action on VH1 NETWORK
+18/06/2018 11:34:05 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:34:08 AutomationLog INFO: Entering SIX Title for Search in SEARCH field
+18/06/2018 11:34:14 AutomationLog INFO: Search Suggestions Displayed for SIX, Checking them one by one to find exact Match
+18/06/2018 11:34:14 AutomationLog INFO: Exact Match Found for SIX, Selecting it Now
+18/06/2018 11:34:17 AutomationLog INFO: PASS : Verifing Title Show Text on ON DEMAND page  : Actual is ->SIX AND expected is ->SIX
+18/06/2018 11:34:17 AutomationLog INFO: PASS : Verifing Show Episode Text on ON DEMAND page  : Actual is ->Episode 1 AND expected is ->Episode 1
+18/06/2018 11:34:17 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for SIX Title
+18/06/2018 11:34:27 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:34:32 AutomationLog INFO: Performing Click action on Epix NETWORK
+18/06/2018 11:34:37 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:34:40 AutomationLog INFO: Entering JURASSIC PARK Title for Search in SEARCH field
+18/06/2018 11:34:46 AutomationLog INFO: Search Suggestions Displayed for JURASSIC PARK, Checking them one by one to find exact Match
+18/06/2018 11:34:46 AutomationLog INFO: Exact Match Found for JURASSIC PARK, Selecting it Now
+18/06/2018 11:34:49 AutomationLog INFO: PASS : Verifing MovieTitle Text on ON DEMAND page  : Actual is ->Jurassic Park AND expected is ->JURASSIC PARK
+18/06/2018 11:34:49 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for JURASSIC PARK Title
+18/06/2018 11:34:59 AutomationLog INFO: Performing Click action on NETWORKS TAB
+18/06/2018 11:35:04 AutomationLog INFO: Performing Click action on Epix NETWORK
+18/06/2018 11:35:09 AutomationLog INFO: Performing Click action on SEARCH BUTTON
+18/06/2018 11:35:12 AutomationLog INFO: Entering POWER RANGERS Title for Search in SEARCH field
+18/06/2018 11:35:18 AutomationLog INFO: Search Suggestions Displayed for POWER RANGERS, Checking them one by one to find exact Match
+18/06/2018 11:35:18 AutomationLog INFO: Exact Match Found for POWER RANGERS, Selecting it Now
+18/06/2018 11:35:22 AutomationLog INFO: PASS : Verifing MovieTitle Text on ON DEMAND page  : Actual is ->Power Rangers AND expected is ->POWER RANGERS
+18/06/2018 11:35:22 AutomationLog INFO: Capturing the ScreenShot of ON DEMAND page for POWER RANGERS Title
+18/06/2018 11:35:33 AutomationLog INFO: Result Excel file has been generated!
+18/06/2018 11:35:33 AutomationLog INFO: Closing Chrome Browser

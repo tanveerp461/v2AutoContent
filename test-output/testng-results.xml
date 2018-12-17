@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="493819" started-at="2018-06-18T05:57:20Z" finished-at="2018-06-18T06:05:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="493819" started-at="2018-06-18T05:57:20Z" finished-at="2018-06-18T06:05:34Z">
+      <class name="com.test.DishScript">
+        <test-method status="PASS" signature="property()[pri:0, instance:com.test.DishScript@123ef382]" name="property" is-config="true" duration-ms="7" started-at="2018-06-18T11:27:20Z" finished-at="2018-06-18T11:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- property -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.DishScript@123ef382]" name="setUp" is-config="true" duration-ms="4267" started-at="2018-06-18T11:27:20Z" finished-at="2018-06-18T11:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dishBravo()[pri:0, instance:com.test.DishScript@123ef382]" name="dishBravo" duration-ms="488429" started-at="2018-06-18T11:27:25Z" finished-at="2018-06-18T11:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dishBravo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.DishScript@123ef382]" name="tearDown" is-config="true" duration-ms="1097" started-at="2018-06-18T11:35:33Z" finished-at="2018-06-18T11:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.DishScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
